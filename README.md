@@ -35,3 +35,4 @@
 2. **畫面故障藝術 (Glitch Engine):** 透過隨機抓取畫布像素區塊進行位置錯位（Chromatic Aberration 概念），模擬電子元件壞損的失真感。
 3. **即時音頻合成 (Audio Synthesis):** 完全不使用外部音檔，100% 由 `p5.sound` 的白噪音（White Noise）與鋸齒波振盪器（Sawtooth Oscillator）隨機即時運算產生。
 # DO-NOT-NEAR-ME-Simulation
+# DO-NOT-NEAR-ME-Simulation
